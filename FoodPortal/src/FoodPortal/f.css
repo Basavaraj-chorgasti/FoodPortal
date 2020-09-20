@@ -1,0 +1,10 @@
+.footer {
+    
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+    background-color: lightgreen;
+    height: 40px;
+    
+    
+  }

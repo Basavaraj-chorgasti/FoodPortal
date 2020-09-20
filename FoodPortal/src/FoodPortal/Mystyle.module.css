@@ -1,0 +1,18 @@
+
+ul{
+     background-color: lightgreen; 
+    height: 40px;
+    padding-top:10px ;
+}
+li{
+    
+
+    display: inline;
+    float: RIGHT;
+    margin: 0 10px;
+    
+    
+    
+    /* padding-bottom:10px ; */
+   
+}
